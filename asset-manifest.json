@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/kvlLand/static/css/main.a56f52f6.css",
-    "main.js": "/kvlLand/static/js/main.72c25d01.js",
+    "main.css": "/kvlLand/static/css/main.35d527a5.css",
+    "main.js": "/kvlLand/static/js/main.b8aca46f.js",
     "static/js/787.87549a75.chunk.js": "/kvlLand/static/js/787.87549a75.chunk.js",
     "static/media/KONATITLE.ttf": "/kvlLand/static/media/KONATITLE.0354e22e862468fa7039.ttf",
     "static/media/Pretendard-Light.otf": "/kvlLand/static/media/Pretendard-Light.b751f0c99ed43c34e627.otf",
@@ -34,12 +34,12 @@
     "static/media/CARDIMGBACK8.png": "/kvlLand/static/media/CARDIMGBACK8.b66994abdc776f71512f.png",
     "static/media/Group12.png": "/kvlLand/static/media/Group12.00b6c4936829f25390fd.png",
     "index.html": "/kvlLand/index.html",
-    "main.a56f52f6.css.map": "/kvlLand/static/css/main.a56f52f6.css.map",
-    "main.72c25d01.js.map": "/kvlLand/static/js/main.72c25d01.js.map",
+    "main.35d527a5.css.map": "/kvlLand/static/css/main.35d527a5.css.map",
+    "main.b8aca46f.js.map": "/kvlLand/static/js/main.b8aca46f.js.map",
     "787.87549a75.chunk.js.map": "/kvlLand/static/js/787.87549a75.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a56f52f6.css",
-    "static/js/main.72c25d01.js"
+    "static/css/main.35d527a5.css",
+    "static/js/main.b8aca46f.js"
   ]
 }
